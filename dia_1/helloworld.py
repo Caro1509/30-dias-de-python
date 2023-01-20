@@ -19,8 +19,8 @@ print(type("Colombo Cuellar"))
 print(type("España"))
 print(28)
 print(5.4)
-print(5 + l)
-print(i love pizza)
+print("5 + 4l")
+print("i love pizza")
 print(True)#Is the light on? If it is on, then the value is True
 print(False)#Is the light on? If it is off, then the value is False
 print[0,1,2]
