@@ -48,3 +48,24 @@ circumference = 2 * pi * radius
 circumference = input("cual es la circunferencia")
 print(f"la circunferencia es {circumference}")
 
+funcion1 = "y=2x-2"
+print("su funcion es {funcion1}")
+pendientef1 = str(2)
+print("su pendiente es {pendientef1}")
+interceptx =(2*0 -2)
+print("el intercepto de x es {interceptx}")
+intercepty = (0+2)/2
+print("el intercepto de y es {intercepty}")
+
+punto1 = (2,2)
+punto2 = (6,10)
+x1 = 2
+x2 = 6
+y1 = 2 
+y2 = 10
+m = (y2-y1)/(x2-x1)
+print("su pendiente es {m}")
+euclideandistance = (x2-x1)**2+ (y2-y1)**2
+print("la distancia euclaniana es {euclideandistance}")
+
+
