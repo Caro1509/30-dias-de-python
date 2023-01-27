@@ -68,4 +68,10 @@ print("su pendiente es {m}")
 euclideandistance = (x2-x1)**2+ (y2-y1)**2
 print("la distancia euclaniana es {euclideandistance}")
 
+print(pendientef1==m)
+
+numeros_prueba = (2, -3, 4, 5 ,6)
+for n in numeros_prueba:
+    print(n**2 + 6*n +9)
+
 
