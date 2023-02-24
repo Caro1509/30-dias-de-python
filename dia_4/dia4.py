@@ -86,6 +86,29 @@ print(len(palabra5))
 palabra6 = 'All'
 print(len(palabra5))
 
+primera_letra2 = palabra4[0]
+print(len(primera_letra2)) #C
+segunda_letra2 = palabra5[0]
+print(len(segunda_letra2)) #F
+tercera_letra2 = palabra6[0]
+print(len(tercera_letra2)) #A
+
+print(multiline_string2.index) #0
+
+print(multiline_string2.index) #8
+
+print(multiline_string2.rfind('i'))
+print(multiline_string2.rfind('a'))
+
+multiline_string5 = 'Coding For All People'
+print(multiline_string5.rfind('l'))
+
+multiline_string6 = 'You cannot end a sentence with because because because is a conjunction'
+print(multiline_string6.index('because'))
+print(multiline_string6.rindex('because'))
+
+
+
 
 
 
