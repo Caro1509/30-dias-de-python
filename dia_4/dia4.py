@@ -107,6 +107,12 @@ multiline_string6 = 'You cannot end a sentence with because because because is a
 print(multiline_string6.index('because'))
 print(multiline_string6.rindex('because'))
 
+3because = language [31:54]
+print(3because) #because because because
+
+print(multiline_string6.rfind(because)
+
+
 
 
 
