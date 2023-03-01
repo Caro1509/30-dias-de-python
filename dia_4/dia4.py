@@ -108,6 +108,7 @@ print(multiline_string6.index('because'))
 print(multiline_string6.rindex('because'))
 
 
+print(multiline_string6)
 
 
 
