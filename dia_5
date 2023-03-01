@@ -42,4 +42,35 @@ print(it_companies)
 
 #12
 
+sexta_red = it_companies[5]
+print(sexta_red.capitalize())
+
+#14
+
+does_exir = 'Facebook' in it_companies
+print(does_exit) #True
+
+it_companies.sort()
+print(it_companies)
+it_companies.sort(reverse=True)
+print(it_companies)
+
+it_companies.reverse()
+print(it_companies)
+
+todas_redes = it_companies[0:6]
+todas_redes = it_companies[0:2]
+todas_redes = it_companies[3:6]
+
+#20
+#21
+#22
+#23
+#24
+#25
+
+front_end = ['HTML', 'CSS', 'JS', 'React', 'Redux']
+back_end = ['Node','Express', 'MongoDB']
+
+#27
 
