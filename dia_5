@@ -6,15 +6,40 @@ print('colores', colores)
 print('colores'len(colores))
 
 color1 = colores[0]
-print(color1)
 color3 = colores[2]
-print(color3)
 color5 =colores[4]
-print(color5)
+print('color1', 'color3', 'color5')
+
 
 mixed_data_types = ['Carolina', '17', '1.68', 'soltera', 'jerez']
 print(mixed_data_types)
 
 it_companies = ['Facebook', 'Google', 'Microsoft', 'Apple', 'IBM', 'Oracle', 'Amazon']
 print(it_companies)
+
+primera_red = it_companies[0]
+print(primera_red)
+segunda_red = it_companies[1]
+print(segunda_red)
+tercera_red = it_companies[2]
+print(tercera_red)
+cuarta_red = it_companies[3]
+print(cuarta_red)
+quinta_red = it_companies[4]
+print(quinta_red)
+sexta_red = it_companies[5]
+print(sexta_red)
+septima_red = it_companies[6]
+print(septima_red)
+
+print('primer_red', 'cuarta_red', 'septima_red')
+
+las_index = len(it_companies) - 1
+last_red = it_companies[last_index]
+print(it_companies)
+
+#11
+
+#12
+
 
