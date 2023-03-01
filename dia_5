@@ -1,1 +1,20 @@
+lista_vacia =lista() 
+print(len(lista_vacia))
+
+colores = ['rojo', 'azul', 'naranja', 'blanco', 'negro']
+print('colores', colores)
+print('colores'len(colores))
+
+color1 = colores[0]
+print(color1)
+color3 = colores[2]
+print(color3)
+color5 =colores[4]
+print(color5)
+
+mixed_data_types = ['Carolina', '17', '1.68', 'soltera', 'jerez']
+print(mixed_data_types)
+
+it_companies = ['Facebook', 'Google', 'Microsoft', 'Apple', 'IBM', 'Oracle', 'Amazon']
+print(it_companies)
 
