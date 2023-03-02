@@ -1,9 +1,9 @@
-lista_vacia =lista() 
+lista_vacia =list()
 print(len(lista_vacia))
 
 colores = ['rojo', 'azul', 'naranja', 'blanco', 'negro']
 print('colores', colores)
-print('colores'len(colores))
+print('colores' [len(colores)])
 
 color1 = colores[0]
 color3 = colores[2]
@@ -34,7 +34,7 @@ print(septima_red)
 
 print('primer_red', 'cuarta_red', 'septima_red')
 
-las_index = len(it_companies) - 1
+last_index = len(it_companies) - 1
 last_red = it_companies[last_index]
 print(it_companies)
 
@@ -47,7 +47,7 @@ print(sexta_red.capitalize())
 
 #14
 
-does_exir = 'Facebook' in it_companies
+does_exit = 'Facebook' in it_companies
 print(does_exit) #True
 
 it_companies.sort()
@@ -62,7 +62,8 @@ todas_redes = it_companies[0:6]
 todas_redes = it_companies[0:2]
 todas_redes = it_companies[3:6]
 
-#20
+it_companies = it_companies[0:len(it_companies)//
+
 #21
 #22
 #23
@@ -73,4 +74,3 @@ front_end = ['HTML', 'CSS', 'JS', 'React', 'Redux']
 back_end = ['Node','Express', 'MongoDB']
 
 #27
-
